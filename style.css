@@ -1,0 +1,9 @@
+.case{
+	border : 1px solid black;
+	width: 100px;
+	height: 100px;
+}
+
+.line{
+	margin-top: -20px !important;
+}
